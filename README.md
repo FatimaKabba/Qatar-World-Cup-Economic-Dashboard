@@ -1,6 +1,6 @@
 🏆 Qatar World Cup 2022: Economic & Tourism Impact Dashboard
 📊 Data Visualization | Business Intelligence | Tableau Storytelling
-
+https://github.com/FatimaKabba/Qatar-World-Cup-Economic-Dashboard/commit/170168205365a8d6dab60f3d34b73bd805136999
 🔍 Why This Dashboard Matters
 Hosting the FIFA World Cup is more than just sports – it's a multi-billion dollar economic event. My Tableau Dashboard uncovers the financial and tourism impact of Qatar 2022, providing data-driven insights for businesses, investors, and future event organizers.
 
