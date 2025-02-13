@@ -22,7 +22,8 @@ Hosting the FIFA World Cup is more than just sports – it's a multi-billion dol
 🚀 Recruiters & Hiring Managers – See my ability to transform raw data into business insights.
 💼 Freelance Clients – Need a custom Tableau dashboard? Let’s discuss your project!
 📊 Businesses & Investors – Use these insights to plan profitable strategies for future events.
-![Qatar World Cup Dashboard](https://raw.githubusercontent.com/FatimaKabba/Qatar-World-Cup-Economic-Dashboard/main/Qatar_World_Cup_Dashboard.png)
+![Qatar World Cup Dashboard](https://github.com/FatimaKabba/Qatar-World-Cup-Economic-Dashboard/blob/main/Economic_Impact_Dashboard.png?raw=true)
+
 
 📢 Let’s Connect!
 I specialize in data analytics, Tableau dashboards, and business intelligence solutions.
